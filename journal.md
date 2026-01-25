@@ -1,0 +1,3 @@
+Date: 1.24.25 - Subject: Creating Remote Personal and Local Git Repo
+
+Throughout working on this stuff, I am getting better at understanding how control works in real projects. Creating a local repository taught me how to track changes and manage my code more carefully. Connecting it to a remote repository showed me how important backups and sharing are in software development. Besides that, I feel more confident and comfortable when using Git.
